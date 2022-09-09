@@ -1,8 +1,8 @@
-# Server web side Dental Clinic - use NodeJs
+# Server web side Dental Clinic - use NodeJs MySql
  
-this server was to web side Dental Clinic , Use nodeJs and MySql
+this server was for website Dental Clinic , Use nodeJs and MySql
 
-client web side - https://github.com/Goddier1996/Client_web_side_Dental_Clinic
+client website - https://github.com/Goddier1996/Client_web_side_Dental_Clinic
 
 
 
